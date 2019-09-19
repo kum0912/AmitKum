@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+
+<glossgroup id="PPBU_Applications">          
+<title>Glossary Definitions</title>        
+<glossentry id="PPBU_Applications_Captivate">
+<glossterm>Captivate</glossterm>
+<glossdef>na</glossdef></glossentry>
+<glossentry id="PPBU_Applications_FrameMaker">
+<glossterm>FrameMaker</glossterm>
+<glossdef>Content Writer</glossdef></glossentry>
+<glossentry id="PPBU_Applications_RoboHelp">
+<glossterm>RoboHelp</glossterm>
+<glossdef>Content writer application</glossdef></glossentry>
+<glossentry id="PPBU_Applications_Adobe_Presenter">
+<glossterm>Adobe Presenter</glossterm>
+<glossdef>Powerpoint Addin</glossdef></glossentry></glossgroup>

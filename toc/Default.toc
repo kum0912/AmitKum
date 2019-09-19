@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <book navtitle="About_PPBU">
+    <page href="../contents/About_PPBU/Managment.htm"></page>
+    <page href="../contents/About_PPBU/PPBU_Team.htm"></page>
+    <page href="../contents/About_PPBU/Strength.htm"></page>
+    <page href="../contents/About_PPBU/Work_Type.htm"></page>
+  </book>
+  <book navtitle="Applications">
+    <page href="../contents/Applications/Adobe_Presenter.htm"></page>
+    <page href="../contents/Applications/Captivate.htm"></page>
+    <page href="../contents/Applications/FrameMaker.htm"></page>
+    <page href="../contents/Applications/RoboHelp.htm"></page>
+    <page href="../contents/Applications/RoboHelp_Server.htm"></page>
+    <page href="../contents/Applications/Video_Express.htm"></page>
+  </book>
+</map>
